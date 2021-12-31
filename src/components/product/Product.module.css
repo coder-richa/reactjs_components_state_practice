@@ -1,0 +1,38 @@
+.product {
+  border: 2px solid black;
+  border-radius: 1rem;
+  margin-top: 1rem;
+  padding: 1rem;
+  width: auto;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: navy;
+}
+
+.price {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: green;
+}
+.date {
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+}
+
+.edit {
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: navy;
+  min-width: 40%;
+  display: block;
+}
+.delete {
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: red;
+  min-width: 40%;
+}
